@@ -5,3 +5,5 @@ venv/
 django_cache/
 
 db.*
+
+__pycache__/
